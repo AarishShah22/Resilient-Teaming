@@ -2,7 +2,7 @@
 
 This is the repository for the Resilient Teaming project with the Barton Research Group at the University of Michigan.
 
-Follow the below steps:
+To recreate, follow the below steps:
 
 Create a Catkin workspace:
 
